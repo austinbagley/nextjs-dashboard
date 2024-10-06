@@ -8,7 +8,7 @@ import {
   Revenue,
 } from './definitions';
 import { formatCurrency } from './utils';
-import { ReceiptPercentIcon } from '@heroicons/react/24/outline';
+/*import { ReceiptPercentIcon } from '@heroicons/react/24/outline';*/
 
 export async function fetchRevenue() {
   try {
